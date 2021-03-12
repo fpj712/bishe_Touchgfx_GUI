@@ -1,0 +1,12 @@
+[
+ {
+  "path": "/packages/multimedia/touchgfx2rtt", 
+  "ver": "latest", 
+  "name": "TOUCHGFX2RTT"
+ }, 
+ {
+  "path": "/packages/peripherals/touch/gt9147", 
+  "ver": "latest", 
+  "name": "GT9147"
+ }
+]
